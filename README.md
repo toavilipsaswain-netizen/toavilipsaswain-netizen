@@ -231,14 +231,14 @@ const avilipsa = {
 
 ## 🏆 Certifications
 
-**Feb 2026 – Present**  
-- **SAP Certified Associate – ABAP Cloud (2026)**
+**June 2026 – Present**  
+- **Data Science using Python - Besant Technologies**
 
-**Dec 2024 – Jan 2025**  
-- **Data Science – Unified Mentor**
+**Feb 2026 – Feb 2027**  
+- **SAP Certified Associate - Back-End Developer - ABAP Cloud**
 
-**Mar 2024 – Apr 2026**  
-- **AI Expert – BE10X**
+**May 2025 – Sep 2026**  
+- **Artificial Intelligence and Machine Learning - Sahnar Technologies Pvt.Ltd**
 ## 📬 Contact
 
 For any queries, feedback, or collaboration:
