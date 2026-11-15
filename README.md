@@ -36,13 +36,13 @@
 ### 💻 Data Science Candidate
 
 ```javascript
-const sradhanjali = {
-  name: "Sradhanjali Pani",
+const avilipsa = {
+  name: "Avilipsa Swain",
   role: "Aspiring Data Analyst | Data Science Candidate",
   location: "Bhubaneswar, Odisha 🇮🇳",
   focus: "Transforming raw data into meaningful insights through data analysis, visualization, and intelligent solutions",
 
-  programming: ["Python", "SQL", "JavaScript"],
+  programming: ["Python", "SQL"],
   database: ["MySQL", "Relational Database Design"],
   dataAnalysis: ["Pandas", "NumPy", "Data Cleaning", "EDA", "Data Preprocessing", "Feature Engineering", "Statistical Analysis"],
   visualizationAndBI: ["Power BI", "Tableau", "Matplotlib", "Seaborn", "DAX", "Power Query", "Data Modeling"],
