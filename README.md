@@ -243,10 +243,10 @@ const avilipsa = {
 
 For any queries, feedback, or collaboration:
 
-[![Email](https://img.shields.io/badge/Email-sradhanjaliguddu601@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sradhanjaliguddu601@gmail.com) <br>
-[![Phone](https://img.shields.io/badge/Phone-+91_63701_40153-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916370140153) <br>
-[![GitHub](https://img.shields.io/badge/GitHub-Sradhanjaliguddu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sradhanjaliguddu) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sradhanjali_Pani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sradhanjali-pani-2a8793301) <br>
+[![Email](https://img.shields.io/badge/Email-toavilipsaswain@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toavilipsaswain@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-+91_7609887477?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917609887477)  
+[![GitHub](https://img.shields.io/badge/GitHub-AvilipsaSwain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvilipsaSwain)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avilipsa_Swain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Location](https://img.shields.io/badge/Location-Bhubaneswar,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#) <br>
 
 ## 💡 Data Insight of the Day
