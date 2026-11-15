@@ -68,6 +68,11 @@ const avilipsa = {
 📅 2023 – 2026 <br>
 📊 CGPA: 7.68 / 10.0 <br>
 
+🏫 GITA Autonomous College, Bhubaneswar, Odisha <br>
+🎓 Higher Secondary School — Science (PCMB) <br>
+📅 2023 – 2026 <br>
+📊 CGPA: 7.68 / 10.0 <br>
+
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sradhanjali-pani-2a8793301/) 
