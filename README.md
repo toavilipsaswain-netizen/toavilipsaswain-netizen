@@ -243,6 +243,7 @@ const avilipsa = {
 ## 📬 Contact
 
 For any queries, feedback, or collaboration:
+<br>
 [![Email](https://img.shields.io/badge/Email-toavilipsaswain%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toavilipsaswain@gmail.com)<br>
 [![Phone](https://img.shields.io/badge/Phone-%2B91_7609887477-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917609887477) <br>
 [![GitHub](https://img.shields.io/badge/GitHub-AvilipsaSwain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toavilipsaswain-netizen) <br>
