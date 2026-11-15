@@ -188,19 +188,20 @@ const avilipsa = {
 
 ## 💼 Professional Experience
 
-### 🤖 AI Intern — Jyesta Corporate
-**📅 June 2025 – July 2025**
+### 🤖 SAP ABAP Backend Developer - GITA Autonomous College, Bhubaneswar, Odisha
 
-- Explored AI and Generative AI concepts, prompt engineering, and practical automation applications.
-- Assisted in developing AI-based solutions and intelligent workflows for business-oriented problems.
+- Developed and enhanced SAP backend solutions using ABAP, ABAP Objects, CDS Views, and OData services, delivered custom reports, interfaces, enhancements, and   data-migration programs with 99% data accuracy and 20% faster development delivery.
 
-### 📊 Data Science Intern — Unified Mentor
-**📅 December 2024 – January 2025**
+- Optimized ABAP programs, SQL queries, and data-processing logic through debugging, root-cause analysis, and performance tuning; reduced execution time by 35% and recurring production defects by 25%.
 
-- Performed data cleaning, preprocessing, Exploratory Data Analysis (EDA), and visualization using Python, Pandas, NumPy, Matplotlib, and Seaborn.
-- Identified patterns, trends, and actionable business insights from structured datasets.
-- Developed analytical workflows and prepared data-driven reports.
+- Performed unit, integration, and UAT testing while providing production support for ABAP applications achieved 95% test coverage, reduced post-go-live defects by 20%, and improved issue-resolution turnaround by 30%.
 
+
+### 📊 Data Science Intern — Gwing Sft Pvt Ltd, Remote
+
+- Performed data cleaning, preprocessing, validation, and exploratory data analysis (EDA) using Python, Pandas, NumPy, Matplotlib, and Seaborn; improved dataset accuracy and analysis readiness by 30%.
+- Analyzed datasets to identify trends, patterns, anomalies, and actionable business insights; developed analytical workflows that reduced manual data-processing effort by 35%.
+- Created data visualizations and data-driven reports using Matplotlib and Seaborn to communicate KPIs and recommendations to stakeholders; improved reporting clarity and decision-making efficiency by 20%.
 
  ## 🚀 Featured Projects
 
