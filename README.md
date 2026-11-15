@@ -239,15 +239,15 @@ const avilipsa = {
 
 **May 2025 – Sep 2026**  
 - **Artificial Intelligence and Machine Learning - Sahnar Technologies Pvt.Ltd**
+
 ## 📬 Contact
 
 For any queries, feedback, or collaboration:
-
-[![Email](https://img.shields.io/badge/Email-toavilipsaswain@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toavilipsaswain@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-+91_7609887477?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917609887477)  
-[![GitHub](https://img.shields.io/badge/GitHub-AvilipsaSwain-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/AvilipsaSwain](https://github.com/toavilipsaswain-netizen))  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avilipsa_Swain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Location](https://img.shields.io/badge/Location-Bhubaneswar,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#) <br>
+[![Email](https://img.shields.io/badge/Email-toavilipsaswain%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toavilipsaswain@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_7609887477-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917609887477)
+[![GitHub](https://img.shields.io/badge/GitHub-AvilipsaSwain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toavilipsaswain-netizen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avilipsa_Swain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sradhanjali-pani-2a8793301)
+[![Location](https://img.shields.io/badge/Location-Bhubaneswar,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Bhubaneswar%2C+Odisha%2C+India)
 
 ## 💡 Data Insight of the Day
 
