@@ -65,13 +65,13 @@ const avilipsa = {
 
 🏫 GITA Autonomous College, Bhubaneswar, Odisha <br>
 🎓 B.Tech — Computer Science & Engineering (IoT) <br>
-📅 2023 – 2026 <br>
+📅 2022 – 2026 <br>
 📊 CGPA: 7.68 / 10.0 <br>
 
-🏫 GITA Autonomous College, Bhubaneswar, Odisha <br>
+🏫 Nimapada Autonomous College, Puri, Odisha <br>
 🎓 Higher Secondary School — Science (PCMB) <br>
-📅 2023 – 2026 <br>
-📊 CGPA: 7.68 / 10.0 <br>
+📅 2020 – 2022 <br>
+📊 Percentage: 69 <br>
 
 
 ## 🌐 Connect With Me:
